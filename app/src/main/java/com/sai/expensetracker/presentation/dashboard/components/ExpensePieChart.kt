@@ -1,3 +1,4 @@
+// Animated pie chart for expense breakdown
 package com.sai.expensetracker.presentation.dashboard.components
 
 import androidx.compose.animation.core.animateFloatAsState
