@@ -1,3 +1,4 @@
+// Constants for app configuration
 package com.sai.expensetracker.util
 
 object Constants {
